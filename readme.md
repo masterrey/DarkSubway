@@ -1,4 +1,3 @@
-
 # DarkSubway: Horror Game in São Paulo Metro
 
 Welcome to the repository of the game DarkSubway, a horror experience based on the São Paulo metro, developed in Unreal Engine. In this game, players will immerse themselves in a dark and unsettling environment, exploring the sinister corridors of the subway and facing supernatural challenges.
