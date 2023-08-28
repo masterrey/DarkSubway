@@ -49,6 +49,3 @@ This project is licensed under the [MIT License](LICENSE.md), which means you're
 If you have any questions, suggestions, or want to get in touch, feel free to open an **Issue** in this repository or send an message to me.
 
 Enjoy exploring the eerie world of DarkSubway!
-```
-
-Be sure to customize the sections with specific information about your project, such as detailed installation instructions, usage guides, screenshots, and any other relevant details.
